@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c664290.chunk.css",
-    "main.js": "/static/js/main.82c696b8.chunk.js",
-    "main.js.map": "/static/js/main.82c696b8.chunk.js.map",
+    "main.css": "/static/css/main.bdd7f5c8.chunk.css",
+    "main.js": "/static/js/main.73d889f8.chunk.js",
+    "main.js.map": "/static/js/main.73d889f8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b9ae1d94.js",
     "runtime-main.js.map": "/static/js/runtime-main.b9ae1d94.js.map",
     "static/js/2.da272063.chunk.js": "/static/js/2.da272063.chunk.js",
     "static/js/2.da272063.chunk.js.map": "/static/js/2.da272063.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5c664290.chunk.css.map": "/static/css/main.5c664290.chunk.css.map",
+    "static/css/main.bdd7f5c8.chunk.css.map": "/static/css/main.bdd7f5c8.chunk.css.map",
     "static/js/2.da272063.chunk.js.LICENSE.txt": "/static/js/2.da272063.chunk.js.LICENSE.txt",
     "static/media/bird_icon.2fd3f500.svg": "/static/media/bird_icon.2fd3f500.svg",
     "static/media/clover_icon.1dc15a5a.svg": "/static/media/clover_icon.1dc15a5a.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b9ae1d94.js",
     "static/js/2.da272063.chunk.js",
-    "static/css/main.5c664290.chunk.css",
-    "static/js/main.82c696b8.chunk.js"
+    "static/css/main.bdd7f5c8.chunk.css",
+    "static/js/main.73d889f8.chunk.js"
   ]
 }
